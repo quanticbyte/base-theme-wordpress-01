@@ -1,0 +1,62 @@
+html,body {
+  height: 100%;
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: black;
+}
+
+.header 
+{
+	background: url("images/portada.jpg");
+	background-size: cover;
+	background-position: center;
+ 	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+
+.color-menu-q {
+	background-color: rgba(0,0,0,0.7) !important;
+}
+
+.text-titul-portada{
+	font-weight:900;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.text-subtitol-portada{
+	font-weight:300;
+	font-family: 'Source Sans Pro', sans-serif;	
+}
+
+.index-title {
+	font-weight:900;
+	font-family: 'Source Sans Pro', sans-serif;
+	padding-left: 1em;
+	padding-right: 1em;	
+}
+
+.index-text{
+	font-weight:300;
+	font-family: 'Source Sans Pro', sans-serif;
+	padding-left: 2em;
+	padding-right: 2em;		
+}
+
+.container-fluid {
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.width-100 {
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: auto;
+  margin-left: auto;  
+}
+
+.div-space-q{ height: 2em; }
